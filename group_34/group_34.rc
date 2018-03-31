@@ -1,0 +1,102 @@
+#include "d:\masm32\include\resource.h"
+
+#define IDM_EXIT        4000
+
+VBMPMenu        MENU
+BEGIN
+        MENUITEM      "Chapter Demo",IDM_EXIT
+END
+
+BMPIcon ICON    picture\EYE.ICO
+
+VBMP    BITMAP  picture\roommorn.bmp
+
+BBMP    BITMAP  picture\game1333.bmp
+
+TALKBLOCK   BITMAP  picture\game1222.bmp
+
+NAMEBLOCK   BITMAP  picture\game122.bmp
+
+D1_1    BITMAP  picture\D1_1.bmp
+D1_2    BITMAP  picture\D1_2.bmp
+D1_3    BITMAP  picture\D1_3.bmp
+D1_4    BITMAP  picture\D1_4.bmp
+D1_5    BITMAP  picture\D1_5.bmp
+D1_6    BITMAP  picture\D1_6.bmp
+D1_7    BITMAP  picture\D1_7.bmp
+D1_8    BITMAP  picture\D1_8.bmp
+D1_9    BITMAP  picture\D1_9.bmp
+D1_10    BITMAP  picture\D1_10.bmp
+D1_11    BITMAP  picture\D1_11.bmp
+D1_12    BITMAP  picture\D1_12.bmp
+D1_13    BITMAP  picture\D1_13.bmp
+D1_14    BITMAP  picture\D1_14.bmp
+D1_15    BITMAP  picture\D1_15.bmp
+D1_16    BITMAP  picture\D1_16.bmp
+D1_17    BITMAP  picture\D1_17.bmp
+D1_18    BITMAP  picture\D1_18.bmp
+D1_22    BITMAP  picture\D1_22.bmp
+D2_1    BITMAP  picture\D2_1.bmp
+D2_2    BITMAP  picture\D2_2.bmp
+D2_3    BITMAP  picture\D2_3.bmp
+D2_4    BITMAP  picture\D2_4.bmp
+D2_5    BITMAP  picture\D2_5.bmp
+D2_6    BITMAP  picture\D2_6.bmp
+D2_7    BITMAP  picture\D2_7.bmp
+D2_8    BITMAP  picture\D2_8.bmp
+D2_9    BITMAP  picture\D2_9.bmp
+D2_10    BITMAP  picture\D2_10.bmp
+D2_11    BITMAP  picture\D2_11.bmp
+D2_12    BITMAP  picture\D2_12.bmp
+D2_13    BITMAP  picture\D2_13.bmp
+D2_14    BITMAP  picture\D2_14.bmp
+D2_15    BITMAP  picture\D2_15.bmp
+D3_0    BITMAP  picture\D3_0.bmp
+D3_1    BITMAP  picture\D3_1.bmp
+D3_2    BITMAP  picture\D3_2.bmp
+D3_3    BITMAP  picture\D3_3.bmp
+D3_4    BITMAP  picture\D3_4.bmp
+D3_5    BITMAP  picture\D3_5.bmp
+D3_6    BITMAP  picture\D3_6.bmp
+D3_7    BITMAP  picture\D3_7.bmp
+D3_35    BITMAP  picture\D3_35.bmp
+D3_45    BITMAP  picture\D3_45.bmp
+D4_0    BITMAP  picture\D4_0.bmp
+D4_1    BITMAP  picture\D4_1.bmp
+D4_2    BITMAP  picture\D4_2.bmp
+D4_3    BITMAP  picture\D4_3.bmp
+D4_4    BITMAP  picture\D4_4.bmp
+D4_5    BITMAP  picture\D4_5.bmp
+D4_6    BITMAP  picture\D4_6.bmp
+D4_7    BITMAP  picture\D4_7.bmp
+D4_8    BITMAP  picture\D4_8.bmp
+D4_9    BITMAP  picture\D4_9.bmp
+D4_10    BITMAP  picture\D4_10.bmp
+D4_11    BITMAP  picture\D4_11.bmp
+D4_71    BITMAP  picture\D4_71.bmp
+D4_72    BITMAP  picture\D4_72.bmp
+D4_75    BITMAP  picture\D4_75.bmp
+D4_76    BITMAP  picture\D4_76.bmp
+D5_1    BITMAP  picture\D5_1.bmp
+D5_2    BITMAP  picture\D5_2.bmp
+D5_3    BITMAP  picture\D5_3.bmp
+D5_4    BITMAP  picture\D5_4.bmp
+D6_0    BITMAP  picture\D6_0.bmp
+D6_1    BITMAP  picture\D6_1.bmp
+D6_2    BITMAP  picture\D6_2.bmp
+D6_3    BITMAP  picture\D6_3.bmp
+D6_4    BITMAP  picture\D6_4.bmp
+D6_5    BITMAP  picture\D6_5.bmp
+D6_6    BITMAP  picture\D6_6.bmp
+D6_7    BITMAP  picture\D6_7.bmp
+D6_8    BITMAP  picture\D6_8.bmp
+D6_9    BITMAP  picture\D6_9.bmp
+D6_10    BITMAP  picture\D6_10.bmp
+D6_11    BITMAP  picture\D6_11.bmp
+D6_33    BITMAP  picture\D6_33.bmp
+D8    BITMAP  picture\D8.bmp
+D8_1    BITMAP  picture\D8_1.bmp
+D8_2    BITMAP  picture\D8_2.bmp
+D8_3    BITMAP  picture\D8_3.bmp
+D8_4    BITMAP  picture\D8_4.bmp
+D888    BITMAP  picture\D888.bmp
