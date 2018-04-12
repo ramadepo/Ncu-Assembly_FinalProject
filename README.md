@@ -1,6 +1,9 @@
 Assembly Language Final Project
 ===
-It's a project made by 劉冠聲(program)、蕭凱丞(program)、戴逸任(graph)、廖卉馨(plot). 
+It's a project made by
+- Program : 劉冠聲、蕭凱丞
+- Graph : 戴逸任
+- Story : 廖卉馨 
 
 It's the final project in 2nd grade class "Assembly Language", so we made the game by assembly language(x86) and Win32 API.
 
