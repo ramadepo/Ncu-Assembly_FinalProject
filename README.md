@@ -10,3 +10,5 @@ It's the final project in 2nd grade class "Assembly Language", so we made the ga
 The character picture is come from the content in [白猫プロジェクト](http://www.wcproject.so-net.tw/), we used it only for studying, hope it will not be an infringement of patent right. If it will, please contact me, I'll delete the repo as soon as possible. 
 
 And backgrounds' reference is in ***Ref.txt***
+
+<img src="./A01.PNG" width="400" height="400" />  <img src="./A02.PNG" width="400" height="400" />
